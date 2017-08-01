@@ -1,4 +1,19 @@
 html{
     background-color: black;
     color: white;
+    text-align: center;
+}
+
+img{
+    width: auto;
+    height: auto;
+}
+
+video{
+    width: auto;
+    height: auto;
+}
+
+a{
+    color: aquamarine;
 }
